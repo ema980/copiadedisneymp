@@ -83,3 +83,6 @@ body{
 .carousel-item img {
     max-width: 100%;
 }
+.galeria:hover{
+   filter: brightness(1.3);
+}
